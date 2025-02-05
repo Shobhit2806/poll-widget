@@ -1,0 +1,58 @@
+{
+  "polls": [
+    {
+      "question": "What is your favorite programming language?",
+      "id": "1",
+      "options": [
+        {
+          "id": "option1",
+          "text": "JavaScript",
+          "voteCount": 50
+        },
+        {
+          "id": "option2",
+          "text": "Python",
+          "voteCount": 25
+        },
+        {
+          "id": "option3",
+          "text": "Java",
+          "voteCount": 10
+        },
+        {
+          "id": "option4",
+          "text": "C#",
+          "voteCount": 15
+        }
+      ],
+      "totalCount": 101
+    },
+    {
+      "id": "2",
+      "question": "What is your favorite programming language?",
+      "totalCount": 100,
+      "options": [
+        {
+          "id": "option1",
+          "text": "JavaScript",
+          "voteCount": 40
+        },
+        {
+          "id": "option2",
+          "text": "Python",
+          "voteCount": 30
+        },
+        {
+          "id": "option3",
+          "text": "Java",
+          "voteCount": 20
+        },
+        {
+          "id": "option4",
+          "text": "C#",
+          "voteCount": 10
+        }
+      ]
+    }
+  ]
+}
